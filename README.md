@@ -4,7 +4,7 @@
 - [Türkçe](#turkish)
 
 <a name="english"></a>
-
+```
 ****************************************************************************
 * ____  _     _     _____     _ _                          ____        _   *
 *| __ )(_)___| |_  |  ___|__ | | | _____      _____ _ __  | __ )  ___ | |_ *
@@ -12,7 +12,7 @@
 *| |_) | \__ \ |_  |  _| (_) | | | (_) \ V  V /  __/ |    | |_) | (_) | |_ *
 *|____/|_|___/\__| |_|  \___/|_|_|\___/ \_/\_/ \___|_|    |____/ \___/ \__|*
 ****************************************************************************
-
+```
 # BIST Stock Tracker Bot for Telegram
 
 Track Borsa Istanbul (BIST) stocks, manage your portfolio, and receive market data directly through Telegram.
@@ -103,7 +103,7 @@ This project is licensed under the MIT License. See the 'LICENSE' file for detai
 ---
 
 <a name="turkish"></a>
-
+```
 ********************************************************************
 * ____  _     _     _____     _    _         ____        _         *
 *| __ )(_)___| |_  |_   _|_ _| | _(_)_ __   | __ )  ___ | |_ _   _ *
@@ -112,7 +112,7 @@ This project is licensed under the MIT License. See the 'LICENSE' file for detai
 *|____/|_|___/\__|   |_|\__,_|_|\_\_| .__/  |____/ \___/ \__|\__,_|*
 *                                   |_|                            *
 ********************************************************************
-
+```
 # BorsaTakip Telegram Botu
 
 Borsa İstanbul (BIST) hisse senetlerini takip etmek, portföy yönetmek ve piyasa verilerini Telegram üzerinden almak için kullanabileceğiniz bir bot.
